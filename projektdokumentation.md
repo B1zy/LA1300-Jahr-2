@@ -68,7 +68,22 @@ Number guessing game
 |8.A|''|Kamil|Konsole sollte farbig sein|20|
 Total: 335min
 
+## 3 Entscheiden
 
+Ich habe mich entschieden einen Jump statement für den Neuanfang zu benutzten, und leider die Rangliste nicht zu implementieren, da es mir zu kompliziert war.
+
+## 4 Realisieren
+
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  |  01.09.2022     |      ja     |    45min           |    20min               |
+| 2.A  | ''      |    ''      |         ''     |       30min            |
+| 3.A| ''|''|''|5min|
+|4.A|''|''|''|5min|
+|5.A|"|''|''|20min|
+|7.A|08.09.2022|"|45min|20min|
+|8.A|''|''|''|10min|
+Total:  110min
 
 
 ### 5 Kontrollieren
