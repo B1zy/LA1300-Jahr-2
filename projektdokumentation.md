@@ -43,10 +43,11 @@ Number guessing game
 |   3.1  | Programm gestartet, zufällige zahl generiert | eine Zahl die grösser als 'x' ist| '"Zu hoch probieren Sie tiefer nächstes Mal"' |
 |   4.1  | Programm gestartet, zufällige zahl generiert | eine Zahl, die kleiner als 'x' ist| '"Zu tief probieren Sie höher nächstes Mal"' |
 |   5.1  | Programm gestartet, zufällige Zahl generiert, Zahl erraten|'x'                 |     '"Sie haben 'y' Versuchen gebraucht"'     |
-|   5.1  | Programm gestartet, zufällige Zahl generiert, Zahl erraten, versuche angezeigt|              |     Rangliste     |
+
 |   6.1  | Programm gestartet, zufällige Zahl generiert | ein                             |'"Falsche eingabe"' |
 |7.1| Programm gestartet, zufällige Zahl generiert und erraten, "Wollen sie noch einmal Spielen?"|'ja'|'"Eine zufällige Zahl zwischen 1-100 wurde generiert"'|
 |8.1| Programm gestartet, zufällige Zahl generiert und erraten, "Wollen sie noch einmal Spielen?"|'nein'|'"Spiel wird abgefahren"'|
+|   9.1  | Programm gestartet, zufällige Zahl generiert, Zahl erraten, versuche angezeigt|              |     Rangliste     |
 
 
 
@@ -58,7 +59,7 @@ Number guessing game
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   07.09.2023  |   Kamil   |                             Zahl zwischen 1 und 100 generieren                        |45min|
+| 1.A  |   13.06.2023  |   Kamil   |                             Zahl zwischen 1 und 100 generieren                        |45min|
 | 2.A  |   ''   |   Kamil   |                   erkennen, ob ich 'x' oder etwas anderes eingegeben habe          |45min|
 | 3.A  |   ''|   Kamil   | Programm soll erkennen, ob zahl grösser als 'x' ist und dann es den Benutzer sagen |45min|
 | 4.A  |   ''  |   Kamil   | Programm soll erkennen, ob zahl kleiner als 'x' ist und dann es den Benutzer sagen |45min|
@@ -76,21 +77,29 @@ Ich habe mich entschieden einen Jump statement für den Neuanfang zu benutzten, 
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  01.09.2022     |      ja     |    45min           |    20min               |
+| 1.A  |  16.08.2023     |      ja     |    45min           |    20min               |
 | 2.A  | ''      |    ''      |         ''     |       30min            |
 | 3.A| ''|''|''|5min|
-|4.A|''|''|''|5min|
+|4.A|23.08.2023|''|''|5min|
 |5.A|"|''|''|20min|
-|7.A|08.09.2022|"|45min|20min|
+|7.A|30.08.2023|"|45min|20min|
 |8.A|''|''|''|10min|
 Total:  110min
 
 
 ### 5 Kontrollieren
-
-
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
+| 1.1  |   06.09.2023    |   Funktioniert       |    Kamil Bielski    |
+| 2.1  |    ''   |  Funktioniert        |  Kamil Bielski      |
+|3.1|''|Funktioniert| Kamil Bielski|
+|4.1|''|Funktioniert|Kamil Bielski|
+|5.1|'' |Funktioniert|Kamil Bielski|
+|6.1|''|Funktioniert nicht|Kamil Bielski|
+|7.1|''|Funktioniert|Kamil Bielski|
+|8.1|''|Funktioniert|Kamil Bielski|
+|9.1|''|Funktioniert nicht|Kamil Bielski|
+
 
 
 
