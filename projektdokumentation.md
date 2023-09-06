@@ -30,8 +30,6 @@ Number guessing game
 |  7  | muss  | Funktion  | Als Benutzer will ich, dass das Spiel sich nochmal startet, wenn ich 'Ja' antworte, damit ich es nochmal spielen kann
 |8|kann|Funktion|Als Benutzer will ich, dass das Spiel farbig ist, damit es nicht so monoton aussieht|
 | 9 | kann | Funktion     | Als Benutzer möchte ich, dass eine Rangliste sich anzeigt, damit ich die Scores von anderen sehen kann |
-| ---- | --------------- | ----     | ---------------------------------- |
-| ---- | --------------- | ----     | ---------------------------------- |
 
 
 
