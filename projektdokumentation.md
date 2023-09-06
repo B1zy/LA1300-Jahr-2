@@ -26,14 +26,29 @@ Number guessing game
 |  3  | kann  | Funktion | Als Benutzer will ich, dass der Computer erkennt, ob ich eine Zahl eingegeben habe, die grösser als 'x' ist, damit ich nächstes Mal genauer versuchen kann
 |  4  | kann  | Funktion | Als Benutzer will ich, dass der Computer erkennt, ob ich eine Zahl eingegeben habe, die kleiner als 'x' ist, damit ich nächstes Mal genauer versuchen kann
 |  5  | muss  | Funktion  | Als Benutzer will ich, dass der Computer die Anzahl Versuche anzeigt, nachdem die Zahl erraten wurde, damit ich meine Resultate mit anderen vergleichen könnte
-|  6  | kann  | Funktion  | Als Benutzer will ich, dass der Computer erkennt, wenn ein Wort anstatt eine Zahl eingegeben wurde und mir erklärt, dass es nicht geht, damit ich nicht verwirrt werde
+|  6  | kann  | Funktion  | Als Benutzer will ich, dass der Computer erkennt, wenn ein Wort anstatt eine Zahl eingegeben wurde, damit es nicht abstürtzt|
 |  7  | muss  | Funktion  | Als Benutzer will ich, dass das Spiel sich nochmal startet, wenn ich 'Ja' antworte, damit ich es nochmal spielen kann
 |8|kann|Funktion|Als Benutzer will ich, dass das Spiel farbig ist, damit es nicht so monoton aussieht|
+| 9 | kann | Funktion     | Als Benutzer möchte ich, dass eine Rangliste sich anzeigt, damit ich die Scores von anderen sehen kann |
+| ---- | --------------- | ----     | ---------------------------------- |
+| ---- | --------------- | ----     | ---------------------------------- |
+
 
 
 ### 1.3 Testfälle
 
-Testfälle sind in den Worddokumment Lern- und Arbeitsauftrag 1300
+| TC-№ | Ausgangslage                             | Eingabe | Erwartete Ausgabe |
+| ---- | ------------                             |     ------    |   ---------                 |
+|   2.1  | Programm gestartet, zufällige Zahl generiert | 'x'    |  '"Richtig, Sie haben die Zahl erraten"'      |
+|   2.2  | Programm gestartet, zufällige Zahl generiert | nicht 'x'                       |       '"Falsch, probieren Sie nochmal"'       |
+|   3.1  | Programm gestartet, zufällige zahl generiert | eine Zahl die grösser als 'x' ist| '"Zu hoch probieren Sie tiefer nächstes Mal"' |
+|   4.1  | Programm gestartet, zufällige zahl generiert | eine Zahl, die kleiner als 'x' ist| '"Zu tief probieren Sie höher nächstes Mal"' |
+|   5.1  | Programm gestartet, zufällige Zahl generiert, Zahl erraten|'x'                 |     '"Sie haben 'y' Versuchen gebraucht"'     |
+|   5.1  | Programm gestartet, zufällige Zahl generiert, Zahl erraten, versuche angezeigt|              |     Rangliste     |
+|   6.1  | Programm gestartet, zufällige Zahl generiert | ein                             |'"Falsche eingabe"' |
+|7.1| Programm gestartet, zufällige Zahl generiert und erraten, "Wollen sie noch einmal Spielen?"|'ja'|'"Eine zufällige Zahl zwischen 1-100 wurde generiert"'|
+|8.1| Programm gestartet, zufällige Zahl generiert und erraten, "Wollen sie noch einmal Spielen?"|'nein'|'"Spiel wird abgefahren"'|
+
 
 
 ### 1.4 Diagramme
