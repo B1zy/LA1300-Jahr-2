@@ -6,9 +6,10 @@ Bielski
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|25.08.2022  | 0.0.0  | Punkten 1.1,1.4,1.2,2,1.3 bearbeitet. |
-| 02.09.2022      | 0.0.1     |      Random Zahlen generieren, tiefer/höher, Anzahl versuche angezeigt   |        
-|08.09.2022|0.02|    Konsole  farbig gemacht,  Neustart ohne die Konsole zu schliessen              |
+|16.08.2023 | 0.0.0  | Punkten 1.1,1.4,1.2,2,1.3 bearbeitet. |
+| 23.09.2023     | 0.0.1     |      Random Zahlen generieren, tiefer/höher, Anzahl versuche angezeigt   |        
+|30.09.2023|0.0.2|    Konsole  farbig gemacht,  Neustart ohne die Konsole zu schliessen              |
+| 06.09.2023| 0.0.3 | Rangliste ausprobiert, Portfolibeitrag erstellt |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
