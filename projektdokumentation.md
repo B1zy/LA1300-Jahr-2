@@ -95,7 +95,7 @@ Total:  110min
 |3.1|''|Funktioniert| Kamil Bielski|
 |4.1|''|Funktioniert|Kamil Bielski|
 |5.1|'' |Funktioniert|Kamil Bielski|
-|6.1|''|Funktioniert nicht|Kamil Bielski|
+|6.1|''|Funktioniert |Kamil Bielski|
 |7.1|''|Funktioniert|Kamil Bielski|
 |8.1|''|Funktioniert|Kamil Bielski|
 |9.1|''|Funktioniert nicht|Kamil Bielski|
